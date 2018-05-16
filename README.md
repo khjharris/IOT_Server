@@ -130,5 +130,5 @@ A client device with a deviceID can initiate a local reset to the server. This l
 ## Server Information
 
 #### 1. Resets
-Only the server has access to master Resets. These reset types are 
+Only the server has access to master Resets.
     
